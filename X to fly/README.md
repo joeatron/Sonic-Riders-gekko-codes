@@ -1,6 +1,6 @@
 Y to fly rebuilds but for TE 2.0, DX 2.0, DX 1.0 and TE 1.4x  
 Disclaimer: these gekko codes were made for mods of sonic riders, not the base game, they will probably not work  
-
+<hr>
 **Compiled Gekko Codes:**  
 **X to fly: (TE 2.0):**
 
