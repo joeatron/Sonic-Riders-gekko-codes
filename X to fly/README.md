@@ -1,8 +1,8 @@
 Y to fly rebuilds but for TE 2.0, DX 2.0, DX 1.0 and TE 1.4x
 14/09/2022
 
-Compiled Gekko Codes:  
-X to fly (TE 2.0):
+**Compiled Gekko Codes:**  
+**X to fly: (TE 2.0):**
 
 C24108F0 00000005  
 81580000 898A000B  
@@ -12,7 +12,7 @@ C24108F0 00000005
 60000000 00000000  
 
 
-Y to fly (TE 2.0):
+**Y to fly: (TE 2.0):**
 
 C24108F0 00000005  
 81580000 898A000B  
@@ -22,7 +22,7 @@ C24108F0 00000005
 60000000 00000000  
        
 
-X to fly (DX2.0, DX1.0, TE 1.4x)
+**X to fly: (DX2.0, DX1.0, TE 1.4x)**
 
 C2411C18 00000005  
 815D0000 888A000B  
@@ -32,7 +32,7 @@ C2411C18 00000005
 60000000 00000000  
 
 
-Y to fly version (DX2.0, DX1.0, TE 1.4x)
+**Y to fly version: (DX2.0, DX1.0, TE 1.4x)**
 
 C2411C18 00000005  
 815D0000 888A000B  
