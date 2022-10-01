@@ -1,6 +1,7 @@
-Have you ever wanted to leave or had to leave mid game for whatever reason but don't want to stop the other players, well here is the code for you!
-(only works in "air out" and "on board" states)
+Have you ever wanted to leave or had to leave mid game for whatever reason but don't want to stop the other players, well here is the code for you!  
+**(only works in "air out" and "on board" states)**
 
+**Compiled versions:**  
 click Z to retire: (DX2.0, DX1.0, Melee 1.1, SR-Netplay 1.1.2, TE 1.2, TE 1.2.1 ,TE 1.2.5, TE 1.3, TE 1.4x)
 
 C24D4200 00000009  
