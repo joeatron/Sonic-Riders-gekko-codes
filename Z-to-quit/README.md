@@ -2,8 +2,9 @@ Have you ever wanted to leave or had to leave mid game for whatever reason but d
   
 (only works in "air out" and "on board" states)
 
-**Compiled versions:**  
-click Z to retire: (DX2.0, DX1.0, Melee 1.1, SR-Netplay 1.1.2, TE 1.2, TE 1.2.1 ,TE 1.2.5, TE 1.3, TE 1.4x)
+<hr>
+
+**click Z to retire: (DX2.0, DX1.0, Melee 1.1, SR-Netplay 1.1.2, TE 1.2, TE 1.2.1 ,TE 1.2.5, TE 1.3, TE 1.4x)**
 
 C24D4200 00000009  
 83A30000 88DD000A  
@@ -16,8 +17,7 @@ C24D4200 00000009
 38C00004 98C31034  
 60000000 00000000  
 
-
-click Z to retire: (TE 2.0)
+**click Z to retire: (TE 2.0)**
 
 C2052B18 00000009  
 815B0000 888A000A  
