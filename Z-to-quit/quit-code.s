@@ -17,9 +17,8 @@ lwz	r29, 0 (r3) #og line lmao
 lbz	r6, 0xA(r29) #trigers (hold mode)
 
 #check if Z is pressed down
-cmpwi r6, 0x8 #Z = 8
-beq code #yes
-b end #no
+andi. r6,r6, 0x8 #Z = 8
+beq end #no
 
 
 code:
