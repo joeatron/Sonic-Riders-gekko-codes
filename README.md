@@ -1,5 +1,5 @@
 # Sonic-Riders-gekko-codes
-just a public archive of my gekko codes an there source code
+just a public archive of my public gekko codes and their source codes
 
 <hr> 
 
