@@ -9,7 +9,7 @@ edit the red ones for different colours (its RGB), and the blue one is transpara
 
 **Pre compiled versions: (are green because I like green)**
   
-Vanilla + version  
+Vanilla + 
   
 003E28F6 00000003  
 C24F4290 00000007  
@@ -23,7 +23,7 @@ C24F4290 00000007
   
   
   
-TE 2.0 Version  
+TE 2.0 
   
 003E3A36 00000003  
 C24F7DC0 00000006  
