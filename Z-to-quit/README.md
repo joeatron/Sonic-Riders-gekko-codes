@@ -2,6 +2,7 @@ Have you ever wanted to leave or had to leave mid game for whatever reason but d
   
 (only works in "air out" and "on board" states)
       Cancel changes
+<hr>
 
 **update - 02/10/2022 (dd/mm/YYYY):**  
 - Made it so you can now use it while drifting :)
