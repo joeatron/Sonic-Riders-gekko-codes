@@ -8,7 +8,7 @@ Have you ever wanted to leave or had to leave mid game for whatever reason but d
 
 <hr>
 
-**click Z to retire: (DX2.0, DX1.0, Melee 1.1, SR-Netplay 1.1.2, TE 1.2, TE 1.2.1 ,TE 1.2.5, TE 1.3, TE 1.4x)**
+**click Z to retire: (Vanilla+)**
 
 C24D4200 00000009  
 83A30000 88DD000A  
