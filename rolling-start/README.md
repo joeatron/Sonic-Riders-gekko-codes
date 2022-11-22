@@ -25,7 +25,7 @@ C24D41FC 00000006
 60000000 00000000  
 
 <hr>
-**Forced rolling start versions:**
+**Forced rolling start versions:**  
 
 moddifed code to force rolling start (TE 2.0)  
 
