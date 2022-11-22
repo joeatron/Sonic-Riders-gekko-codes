@@ -3,7 +3,7 @@ Rolling Start, Click Y to get on board before starting line has passed or use th
 
 <hr>
 
-**Pre compiled versions:**  
+**Toggle versions:**  
 Rolling Start aka "Free Riders Start" Y toggle (TE 2.0)  
 
 C240D9DC 00000006  
