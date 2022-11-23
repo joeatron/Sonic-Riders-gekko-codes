@@ -1,0 +1,16 @@
+==== Starter stuff ====
+https://jimkatz.github.io/PowerPC_Examples (very basic)
+
+==== PPC "cheat sheet" ====
+https://www.cs.uaf.edu/2011/fall/cs301/lecture/11_21_PowerPC.html (does not include advanced commands)
+
+==== command list ====
+http://class.ece.iastate.edu/arun/CprE281_F05/lab/labw10a/Labw10a_Files/PowerPC%20Assembly%20Quick%20Reference.htm (does not include advanced commands)
+https://www.nxp.com/docs/en/reference-manual/MPC82XINSET.pdf (has large list of commands but is written in a way that is hard to understand)
+https://chortle.ccsu.edu/assemblytutorial/Chapter-24/ass24_4.html (branch command table)
+
+==== Data Sheets ====
+https://docs.google.com/spreadsheets/d/1JjGnUaelTYLCMGntBX2LREhlO2wSbBGApSVH9JA_WGo/ (to add custom data, uses 1.3 sheet as base)
+
+#lfs load float single 
+#stfs store float single
