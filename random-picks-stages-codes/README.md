@@ -1,8 +1,3 @@
-Currently finnishing codes that will go in here
-
-
-
-
 Side Code (for Mr Turbo Star)  
 L to random stage (TE2)  (only works in Character selection screen)  
 
