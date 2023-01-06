@@ -35,6 +35,16 @@ C24F7DC0 00000006
 839900AC 00000000  
   
   
+TE 2.1  
+
+C24F7FC4 00000006  
+3D8080E1 618C9CE0  
+896C0000 2C0B0001  
+41820010 3D6000AA  
+616B00FF 917900AC  
+39600001 996C0000  
+839900AC 00000000  
+  
   
 **JUST GREEN MENU (much older version of the code, here because it looks cool)**
 ![image](https://user-images.githubusercontent.com/63060723/202562496-67d153bc-5f2e-414b-8a85-df4dae1e213e.png)
