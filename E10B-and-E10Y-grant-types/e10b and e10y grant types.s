@@ -96,7 +96,7 @@ stw r6, 0xBD0(r3)
 #load registers back to what they were before code
 lwz r7, 0xC(sp)
 lwz r10, 0x10(sp)
-
+addi r1, r1, 0x20
 
 #stw    r0, 0x0BD0 (r3)
 
