@@ -9,6 +9,8 @@ http://class.ece.iastate.edu/arun/CprE281_F05/lab/labw10a/Labw10a_Files/PowerPC%
 https://www.nxp.com/docs/en/reference-manual/MPC82XINSET.pdf (has large list of commands but is written in a way that is hard to understand)
 https://chortle.ccsu.edu/assemblytutorial/Chapter-24/ass24_4.html (branch command table)
 
+==== just all of the above ====
+https://www.chibialiens.com/powerpc/ (guide + PPC explaintion + Command List)
 
 #lfs load float single 
 #stfs store float single
