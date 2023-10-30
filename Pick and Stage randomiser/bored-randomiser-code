@@ -1,0 +1,58 @@
+##################################################################
+# Address: 	80439f64
+# Codetype: Auto
+# Annotation: random stage, char11cter, board code (joe edition)
+##################################################################
+
+li r3, 0xF				#stages 
+
+lis r10, 0x8053			#go to random number generator (r3 is num to 0)
+ori r10, r10, 0xB578
+mtlr r10
+blrl
+
+
+cmpwi r3, 0
+bne store
+li r3, 0x10
+
+store:
+lis r11, 0x8061			#store output in to stage
+ori r11, r11, 0x29AB
+stb r3, 0(r11)
+
+
+li r11, 7				#player handler
+mtctr r11				#put 8 in to CTR (we want to run it 8 times)
+
+lis r11, 0x8060			#load player
+ori r11, r11, 0x9440		
+
+player:					#player loop
+li r3, 0x13				#character (V = F, DX = 13)
+lis r10, 0x8053
+ori r10, r10, 0xB578
+mtlr r10
+blrl
+
+
+cmpwi r3, 0x12			#DX only code, moves chaos to inbetween metal and silver, remove for vanilla
+bne this				#|
+li r3, 0x15				#|
+						#|
+this:					#|
+stb	r3, 0xBA(r11)		#end of DX only code
+
+li r3, 0x28				#board
+lis r10, 0x8053
+ori r10, r10, 0xB578
+mtlr r10
+blrl
+stb	r3, 0xBB(r11)
+
+
+addi r11, r11, 0x1080
+bdnz player				#loop ends, go back to player until CTR = 0
+
+lis	r3, 0x8061
+# 8053B578 vanilla+ random function
