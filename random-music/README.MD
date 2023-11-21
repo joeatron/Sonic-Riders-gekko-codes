@@ -1,6 +1,7 @@
-Unreleased code warning, this contains an error where it will try and load song ID 8081 (I think its 8081, could be 8180), putting this here for better source managerment
+this contains an error where it will try and load song ID 8081 (I think its 8081, could be 8180), putting this here for better source managerment
+^ feature now 
 
-Compiled version: (0.5) (Vanilla+ ? DX1,2,2.1 compatable)
+Compiled version: (0.5) (DX1,2,2.1 compatable)
 
 C209A5AC 0000002B  
 9421FFE0 90810008  
