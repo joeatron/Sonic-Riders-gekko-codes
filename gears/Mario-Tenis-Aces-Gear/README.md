@@ -1,4 +1,4 @@
-Mario Tenis Aces Gear - Power Gear (Vanilla+)
+Mario Tenis Aces Gear - Power Gear (DX 2.0.1+)
 ```
 C2445110 00000009
 3D608060 616B9440
